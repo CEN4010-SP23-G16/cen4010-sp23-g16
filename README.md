@@ -5,3 +5,6 @@
 
 # Milestone 1 - Project Proposal and High-level description
 ### Our group agreed on a project idea and completed our project proposal 
+
+# Milestone 2 - GUI Mockup
+### Our group created a GUI for our project ClimateSmart using the balsamiq tool
